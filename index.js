@@ -3,3 +3,5 @@ function summ(a, b) {
 }
 
 summ(3,12);
+
+12345
